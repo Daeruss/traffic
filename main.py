@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-print('Пам')
 
 v_taxi = 45
 v_0 = v_taxi
